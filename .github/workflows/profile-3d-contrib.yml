@@ -22,7 +22,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: azulls1
-          SETTING_JSON: ./assets/3d-settings.json
 
       - name: Commit & push
         run: |
