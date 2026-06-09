@@ -411,23 +411,6 @@ fun_fact:    "I treat AI agents like teammates, with proper specs and QA reviews
 
 ---
 
-## 🎯 Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-6B46C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-DC244C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM_Evaluation-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Model_Context_Protocol-D97757?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Vision-3FCF8E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cognitive_Systems-FFD700?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Vector_Databases-336791?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Spec--Driven_Dev-00D9FF?style=for-the-badge" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
