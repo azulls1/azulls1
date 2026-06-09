@@ -28,6 +28,48 @@
 
 <br/>
 
+<!-- Value proposition -->
+<div align="center">
+
+### 🎯 I help teams ship AI products that actually work in production.
+**Agentic systems · RAG pipelines · Full-stack delivery · Cloud-native DevOps.**
+
+</div>
+
+<br/>
+
+<!-- Highlights at a glance — big-number row -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="160">
+  <h2>🚀 7+</h2>
+  <sub><b>Years coding</b></sub>
+</td>
+<td align="center" width="160">
+  <h2>🎓 15</h2>
+  <sub><b>Certifications</b></sub>
+</td>
+<td align="center" width="160">
+  <h2>📦 28</h2>
+  <sub><b>Public repos</b></sub>
+</td>
+<td align="center" width="160">
+  <h2>⚙️ 45+</h2>
+  <sub><b>Tools in stack</b></sub>
+</td>
+<td align="center" width="160">
+  <h2>🤖 1</h2>
+  <sub><b>Framework authored</b><br/><i>(BMAD)</i></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <!-- Quote of the day -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
@@ -313,7 +355,7 @@ fun_fact:    "I treat AI agents like teammates, with proper specs and QA reviews
 <div align="center">
 
 <a href="https://github.com/azulls1">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=azulls1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=azulls1&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azulls1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 </a>
 
@@ -347,6 +389,20 @@ fun_fact:    "I treat AI agents like teammates, with proper specs and QA reviews
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azulls1/azulls1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azulls1/azulls1/output/github-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/azulls1/azulls1/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🧊 3D Contribution Skyline
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azulls1/azulls1/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azulls1/azulls1/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D skyline" src="https://raw.githubusercontent.com/azulls1/azulls1/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
