@@ -15,16 +15,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate the snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: azulls1
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd7ff,#218bff,#9255cb,#7d3bb3,#391959
 
-      - name: Push the generated files to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
