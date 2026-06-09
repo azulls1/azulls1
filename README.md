@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Adonai%20Samael&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Solutions%20Architect%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Builder%20of%20Agentic%20Systems&descAlignY=56&descAlign=50&descSize=15" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=820&lines=AI+Solutions+Architect+%E2%9A%A1+Agentic+Systems+Builder;Author+of+BMAD+%2B+Practitioner+of+Spec-Driven+Development;Full-Stack+Engineer+%7C+Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI;DevOps+%26+Cloud+%7C+Docker+Swarm+%E2%80%A2+Kubernetes+%E2%80%A2+Traefik;MSc+in+Artificial+Intelligence+%40+UNIR+(MX+%E2%80%A2+ES);Ship+small.+Measure+everything.+Never+stop+learning." alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=860&lines=AI+Solutions+Architect+%E2%9A%A1+Agentic+Systems+Builder;Practitioner+of+BMAD+%2B+Spec-Driven+Development;Building+my+own+agentic+dev+framework+on+top+of+both;Full-Stack+Engineer+%7C+Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI;DevOps+%26+Cloud+%7C+Docker+Swarm+%E2%80%A2+Kubernetes+%E2%80%A2+Traefik;MSc+in+Artificial+Intelligence+%40+UNIR+(MX+%E2%80%A2+ES);Ship+small.+Measure+everything.+Never+stop+learning." alt="typing svg" />
 </a>
 
 <br/>
@@ -60,8 +60,8 @@
   <sub><b>Tools in stack</b></sub>
 </td>
 <td align="center" width="180">
-  <h2>🤖 BMAD + SDD</h2>
-  <sub><b>Agentic dev methods</b><br/><i>BMAD (authored) · Spec-Driven Dev</i></sub>
+  <h2>🤖 1</h2>
+  <sub><b>Own agentic framework</b><br/><i>built on BMAD + Spec-Driven Dev</i></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@
 
 > Hi! I'm **Adonai Samael** — an engineer obsessed with turning **fuzzy ideas into production-grade AI systems**.
 > I design **agentic architectures**, automate workflows, and ship full-stack products end-to-end.
-> Author of **BMAD** (Breakthrough Method for Agile AI-Driven Development) — my own framework for spec-driven, agent-assisted engineering.
+> I practice **BMAD** and **Spec-Driven Development**, and I'm building **my own adapted agentic dev framework** on top of both.
 
 ```yaml
 name:        Adonai Samael Hernández Mata
@@ -150,12 +150,11 @@ fun_fact:    "I treat AI agents like teammates, with proper specs and QA reviews
 
 </div>
 
-> 🛠️ **iagentek-framework** is my personal take on agent-assisted development —
-> a combination of **BMAD** (Breakthrough Method for Agile AI-Driven Development, authored by me)
-> and **Spec-Driven Development**: specialized agents (**Analyst · Architect · Developer · QA**)
-> collaborate over **versioned formal specs** as the contract between humans and AI.
-> Same patterns as LangChain / CrewAI but implemented from scratch — built on **MCP** (Model Context Protocol),
-> with Obsidian as a persistent context layer between agents.
+> 🛠️ **iagentek-framework** is my personal adaptation of **BMAD** (Breakthrough Method for Agile AI-Driven Development) and **Spec-Driven Development** —
+> both methodologies that I practice and used as the base for my own framework.
+> Specialized agents (**Analyst · Architect · Developer · QA**) collaborate over **versioned formal specs**
+> as the contract between humans and AI. Same patterns as LangChain / CrewAI but implemented from scratch —
+> built on **MCP** (Model Context Protocol), with Obsidian as a persistent context layer between agents.
 
 ---
 
