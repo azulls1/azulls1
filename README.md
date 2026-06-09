@@ -1,57 +1,116 @@
+<!--
+  azulls1/azulls1 — GitHub profile README
+  Maintained with Claude Code.
+-->
+
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/azulls1&w=200&h=200&fit=cover&mask=circle" width="180" height="180" alt="Adonai Samael" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Adonai%20Samael&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Solutions%20Architect%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Builder%20of%20Agentic%20Systems&descAlignY=56&descAlign=50&descSize=15" alt="header" />
 
-<h1>👋 Hi, I'm Adonai Samael <span>😎</span></h1>
-
-<h3>🤖 AI Solutions Architect · Full-Stack Engineer · DevOps & Automation</h3>
-
-<p><em>Building agentic systems, automating workflows, shipping production-grade AI.</em></p>
-
-<a href="https://www.linkedin.com/in/adonai-samael-hernandez-m-6aa8851b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=760&lines=AI+Solutions+Architect+%E2%9A%A1+Agentic+Systems+Builder;Author+of+BMAD+%E2%80%94+Breakthrough+Method+for+Agile+AI-Driven+Dev;Full-Stack+Engineer+%7C+Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI;DevOps+%26+Cloud+%7C+Docker+Swarm+%E2%80%A2+Kubernetes+%E2%80%A2+Traefik;MSc+in+Artificial+Intelligence+%40+UNIR+(MX+%E2%80%A2+ES);Ship+small.+Measure+everything.+Never+stop+learning." alt="typing svg" />
 </a>
-<a href="https://github.com/azulls1">
-  <img src="https://img.shields.io/github/followers/azulls1?label=Followers&style=for-the-badge&color=181717&logo=github&logoColor=white" alt="Followers" />
-</a>
-<a href="mailto:Azull.samael@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://portafolio-samael.iagentek.com.mx">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=azulls1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=AI+Solutions+Architect+%E2%9A%A1+Agentic+Systems+Builder;Full-Stack+Developer+%7C+Python+%E2%80%A2+TypeScript+%E2%80%A2+Node;DevOps+%26+Cloud+%7C+Docker+Swarm+%E2%80%A2+Kubernetes+%E2%80%A2+Traefik;Automation+Engineer+%7C+n8n+%E2%80%A2+Make+%E2%80%A2+MCP+%E2%80%A2+RAG;Always+learning.+Always+shipping.+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<a href="https://www.linkedin.com/in/adonai-samael-hernandez-m-6aa8851b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:Azull.samael@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://portafolio-samael.iagentek.com.mx"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/azulls1"><img src="https://img.shields.io/github/followers/azulls1?label=Followers&style=for-the-badge&color=181717&logo=github&logoColor=white" alt="Followers" /></a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=azulls1&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Based_in-Cuautitl%C3%A1n%2C%20MX-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Open_to-Opportunities-3FCF8E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to" />
+
+</div>
+
+<br/>
+
+<!-- Quote of the day -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 </div>
 
 ---
 
 ## 🧠 About Me
 
+> Hi! I'm **Adonai Samael** — an engineer obsessed with turning **fuzzy ideas into production-grade AI systems**.
+> I design **agentic architectures**, automate workflows, and ship full-stack products end-to-end.
+> Author of **BMAD** (Breakthrough Method for Agile AI-Driven Development) — my own framework for spec-driven, agent-assisted engineering.
+
 ```yaml
 name:        Adonai Samael Hernández Mata
 alias:       azulls1
 location:    Cuautitlán, Estado de México 🇲🇽
-role:        AI Solutions Architect & Full-Stack Engineer
-education:
-  - "MSc Artificial Intelligence — UNIR México / España (2026 – 2027)"
-  - "BSc Intelligent Computing Engineering — UAA (2019 – 2024)"
-current_focus:
-  - "🤖  Agentic AI systems (RAG, MCP, multi-agent orchestration)"
-  - "⚙️  Spec-driven development & docs-as-code"
-  - "🧪  Evaluation of LLMs (precision · latency · hallucinations)"
-  - "📦  Container orchestration & federated Supabase architectures"
-philosophy:  "Ship small, measure everything, never stop learning."
+specialty:   Agentic AI · RAG · Full-Stack · DevOps · Automation
+currently:
+  - "🎓  MSc Artificial Intelligence — UNIR México / España"
+  - "🤖  Designing multi-agent systems with MCP & Spec-Driven Dev"
+  - "🧪  Researching LLM evaluation: precision · latency · hallucinations"
+  - "📚  Diving deep into vector databases, RAG pipelines & cognitive systems"
+philosophy:
+  - "Ship small. Measure everything."
+  - "Spec-driven > vibe-coded."
+  - "Async > sync. WIP-limit = 2."
+  - "Docs-as-code or it didn't happen."
+fun_fact:    "I treat AI agents like teammates, with proper specs and QA reviews."
 ```
 
-> 💡 I love turning **fuzzy ideas** into **production systems** — chatbots, voice AI, computer vision, predictive ML, and end-to-end automations. I work at the intersection of **engineering**, **AI** and **operations**.
+---
+
+## 🎓 Education
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🇪🇺 MSc Artificial Intelligence
+**Universidad Internacional de La Rioja** (UNIR)
+**MX 🇲🇽 + ES 🇪🇸 · Jan 2026 – Jul 2027** _(in progress)_
+
+<img src="https://img.shields.io/badge/Double_Degree-Mexican_(SEP)_%2B_European-FFD700?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Modality-100%25_Online-7C3AED?style=flat-square&logo=zoom&logoColor=white" />
+<img src="https://img.shields.io/badge/Credits-81-00D9FF?style=flat-square" />
+
+**Core subjects:**
+`AI & Cognitive Computing` · `Computer Vision` · `Machine Learning` · `Automatic Reasoning & Planning` · `Cognitive Systems` · `Natural Language Processing` · `AI Research` · `AI Project Management & Innovation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🇲🇽 BSc Intelligent Computing Engineering
+**Universidad Autónoma de Aguascalientes** (UAA)
+**2019 – 2024 · Graduated 🎓**
+
+<img src="https://img.shields.io/badge/Professional_License-15202120-EA4335?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Intelligent_Systems-3FCF8E?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Titled-339933?style=flat-square&logo=verified&logoColor=white" />
+
+**Core subjects:**
+`Artificial Intelligence` · `Machine Learning` · `Data Structures & Algorithms` · `Databases` · `Networking & Security` · `Software Engineering` · `OOP` · `Applied Math & Statistics`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I'm Building
+
+<div align="center">
+
+<a href="https://github.com/azulls1/iagentek-framework">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=azulls1&repo=iagentek-framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="iagentek-framework" />
+</a>
+
+</div>
+
+> 🛠️ **iagentek-framework** is my personal take on agent-assisted development:
+> specialized agents (**Analyst · Architect · Developer · QA**) collaborate over **versioned formal specs** — same patterns as LangChain / CrewAI but implemented from scratch to learn the internals.
+> Built on **MCP** (Model Context Protocol), with Obsidian as a persistent context layer between agents.
 
 ---
 
@@ -214,7 +273,36 @@ philosophy:  "Ship small, measure everything, never stop learning."
 | SAP BTP | Make — Process Automation | Intro to Cybersecurity | Chatbots Development |  |
 | SAP Workflow |  |  |  |  |
 
-**15 certifications · 2023 – 2024**
+**15 certifications · 2023 – 2024 · 5 areas**
+
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spanish-Native-EA4335?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Spanish" />
+<img src="https://img.shields.io/badge/English-Professional-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English" />
+
+</div>
+
+---
+
+## 💡 Engineering Philosophy
+
+<div align="center">
+
+| Principle | What it means in practice |
+|:---|:---|
+| 🔁 **Triple Check** | Every important deliverable passes through 3 review layers before shipping. |
+| 🤖 **AI-First** | Claude CLI and agentic tooling are primary, not an afterthought. |
+| 📐 **Spec-Driven** | Formal, versioned specs as the contract between humans and agents. |
+| 📚 **Docs-as-Code** | If it isn't documented in the repo, it didn't happen. |
+| 💬 **Async > Sync** | PRs, Loom, short docs. If it can be an Asana comment, it isn't a meeting. |
+| 🎯 **WIP Limit = 2** | Two tasks "In Progress" max — focus over multitasking. |
+| 📦 **Ship small** | Tiny PRs, fast feedback loops, measure everything in production. |
 
 </div>
 
@@ -251,26 +339,34 @@ philosophy:  "Ship small, measure everything, never stop learning."
 
 ---
 
-## 🐍 Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azulls1/azulls1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azulls1/azulls1/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/azulls1/azulls1/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/azulls1/azulls1/output/github-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 🌱 What I'm Up To
+## 🎯 Currently Exploring
 
-- 🎓 Pursuing my **MSc in Artificial Intelligence** (UNIR — México / España).
-- 🧪 Researching **multi-agent systems**, **RAG pipelines**, and **LLM evaluation**.
-- 🛠️ Designing my own **agentic development framework** around spec-driven engineering.
-- 💬 Always open to talk about **AI**, **automation**, **DevOps** and **clean architecture**.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-6B46C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-DC244C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Evaluation-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model_Context_Protocol-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Vision-3FCF8E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cognitive_Systems-FFD700?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Vector_Databases-336791?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spec--Driven_Dev-00D9FF?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -278,22 +374,16 @@ philosophy:  "Ship small, measure everything, never stop learning."
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/adonai-samael-hernandez-m-6aa8851b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:Azull.samael@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://portafolio-samael.iagentek.com.mx">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-<a href="https://github.com/azulls1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+I'm always open to talk about **AI**, **automation**, **agentic systems**, **clean architecture** and **good coffee** ☕.
+
+<a href="https://www.linkedin.com/in/adonai-samael-hernandez-m-6aa8851b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Azull.samael@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portafolio-samael.iagentek.com.mx"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://github.com/azulls1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let's%20build%20something%20amazing%20together!&fontSize=22&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=Let's%20build%20something%20amazing%20together!&fontSize=22&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" alt="footer" />
 
 <sub>⚡ <em>"Always learning. Always shipping."</em> ⚡</sub>
 
